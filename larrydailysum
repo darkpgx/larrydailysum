@@ -1,0 +1,10 @@
+Aug 9, 2014
+
+Using object constructor to make red circle, yellow square, blue roundedge on click.
+Object appears on random spot in the window.
+Introduction to url, DNS, IP Address and browser.
+Introduction to code efficiency and big O.
+Attaching events to elements (element.event(function(){}).
+html data-* to attach data to element.
+annonymous functions.
+Introduction to github, git push pull branches.
